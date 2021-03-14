@@ -1,0 +1,7 @@
+Somos la célula de Asistencia Digital, dedicada principalmente al desarrollo de un asistente virtual que sea capaz de interactuar con nuestros clientes en lenguaje natural, brindándoles una atención de excelencia, siendo un experto vendedor y un implacable cobrador.
+
+Este asistente puede operar a través de diferentes canales de texto (chat web, Wsp, RRSS, etc.) y de voz (IVR de entrada y de campañas de salida).
+
+La idea es que sea el representante de Banco Ripley ideal.
+
+También trabajamos en la habilitación de diferentes tecnologías de atención, como plataformas de call center, gestores de fila y kioscos de autoatención, entre otros.
