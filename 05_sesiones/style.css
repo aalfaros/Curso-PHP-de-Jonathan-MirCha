@@ -1,0 +1,17 @@
+form {
+  margin: 0 auto;
+  text-align: center;
+  width: 400px;
+}
+
+span {
+  color: red;
+}
+
+h2 {
+  margin-bottom: 0;
+}
+
+input {
+  margin-top: 1rem;
+}
